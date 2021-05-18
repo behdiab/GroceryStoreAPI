@@ -1,0 +1,1 @@
+2021-05-18 07:47:52.1665 INFO Returned all customers from database.
